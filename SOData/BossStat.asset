@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7542ec89bc943c44a24a2e6a495d4fc, type: 3}
+  m_Name: BossStat
+  m_EditorClassIdentifier: 
+  BossName: 2
+  BossNames:
+  - "\uC5D8\uB9AC\uD2B8 \uB3C4\uADF8 \uC6CC\uB9AC\uC5B4"
+  - "\uC815\uC608 \uBE14\uB808\uC774\uB4DC \uB3C5"
+  - "\uB9AC\uC790\uB4DC \uC6A9\uBCD1\uB300\uC7A5"
+  - "\uB9AC\uC790\uB4DC \uC7A5\uAD70"
+  - "\uC804\uD22C\uC950 \uB808\uC624"
+  - "\uB9AC\uC790\uB4DC \uCC3D\uBCD1 \uB300\uC7A5"
+  - "\uD3EC\uC158 \uB9C8\uC2A4\uD130"
+  - "\uCE58\uC988 \uC2A4\uB098\uC774\uD37C"
+  - "\uAC70\uBD81\uAD70\uC8FC"
+  - "\uACE0\uBE14\uB9B0 \uC815\uC608\uBCD1"
+  - "\uC719\uB4DC \uC0AC\uC774\uD074\uB86D\uC2A4"
+  - "\uB9F9\uB3C5 \uBC84\uC12F"
+  - "\uC815\uC608 \uD574\uACE8 \uBCD1\uC0AC"
+  BossHP: 150
+  BossAttack: 15
+  BossDefence: 20
+  HpRate: 125
+  AttackRate: 15
+  DefenceRate: 10
